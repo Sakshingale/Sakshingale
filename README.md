@@ -1,3 +1,4 @@
+<img src="a_professional_github_profile_banner_for_sakshi_in.png" width="100%">
 # Hi, I'm Sakshi Ingale 👋
 
 Machine Learning | Data Analytics | MLOps | Python • SQL • Cloud
