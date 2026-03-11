@@ -1,119 +1,168 @@
 <img src="banner.png" width="100%">
 
-# Hi, I'm Sakshi Ingale 👋
+<h1 align="center">Hi 👋, I'm Sakshi Ingale</h1>
 
-Machine Learning | Data Analytics | MLOps | Python • SQL • Cloud
+<h3 align="center">Machine Learning • Data Analytics • MLOps • Python • SQL • Cloud</h3>
 
-Data professional focused on building scalable machine learning systems, data pipelines, and analytics solutions that transform raw data into actionable insights.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Data+Analytics+%7C+MLOps;Building+Data+Driven+Systems;Python+%7C+SQL+%7C+Cloud+Technologies">
+</p>
 
 ---
 
 # About Me
 
-- B.Tech Electronics & Telecommunication – Vishwakarma Institute of Technology, Pune  
-- Machine Learning Intern at Anubhooti Solutions  
-- Focused on Machine Learning, Data Analytics, and MLOps  
-- Passionate about building data-driven solutions and scalable ML pipelines  
+🎓 B.Tech Electronics & Telecommunication – VIT Pune  
+🤖 Machine Learning & Data Analytics Professional  
+📊 Building scalable data systems and machine learning pipelines  
+⚙️ Interested in data engineering, analytics, and intelligent systems  
 
 ---
 
 # Tech Stack
 
-### Programming & Data
-![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
-![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue)
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js" />
+</p>
+
+### Data Analytics
+
+Python • Pandas • NumPy • SQL • Data Visualization • Statistical Analysis
+
+---
 
 ### Machine Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange)
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
+
+TensorFlow • PyTorch • Scikit-Learn • Computer Vision • YOLO
+
+---
 
 ### Data Engineering
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)
-![ETL](https://img.shields.io/badge/ETL-Pipelines-blue)
-![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-Architecture-green)
+
+ETL Pipelines • Data Warehousing • Star Schema • Data Modeling
+
+---
 
 ### MLOps & DevOps
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red)
-![MLflow](https://img.shields.io/badge/MLflow-Experiment%20Tracking-blue)
 
-### Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![GCP](https://img.shields.io/badge/GCP-Cloud-blue)
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git" />
+</p>
 
-### Visualization
-![Power BI](https://img.shields.io/badge/PowerBI-Business%20Intelligence-yellow)
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue)
+MLflow • CI/CD • Model Deployment
+
+---
+
+### Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp" />
+</p>
 
 ---
 
 # Featured Projects
 
-## Hotel Reservation Cancellation Prediction
+### Hotel Reservation Cancellation Prediction
 
-End-to-end Machine Learning pipeline predicting hotel reservation cancellations using real-world booking datasets.
+End-to-end Machine Learning pipeline predicting booking cancellations.
 
-Technologies  
-Python • Scikit-learn • MLflow • Docker • Kubernetes • Jenkins • FastAPI
+Tech Stack  
+Python • MLflow • Docker • Kubernetes • Jenkins • FastAPI
 
 Highlights
 
-- Built predictive ML model using 30,000+ booking records
-- Implemented automated CI/CD pipelines for model deployment
-- Deployed scalable REST API for real-time predictions
+• Built ML model using 30,000+ records  
+• Automated CI/CD pipeline  
+• Deployed REST API for real-time predictions  
 
 Repository  
 https://github.com/Sakshingale/Hotel-Reservation-Cancellation-Prediction
 
 ---
 
-## Data Warehouse & Advanced SQL Analytics
+### Data Warehouse & SQL Analytics
 
-Designed scalable data warehouse architecture with ETL pipelines and business intelligence dashboards.
+Designed scalable data warehouse with ETL pipelines and dashboards.
 
-Technologies  
-SQL Server • T-SQL • Data Warehousing • Power BI
+Tech Stack  
+SQL Server • T-SQL • Power BI
 
 Highlights
 
-- Implemented Bronze–Silver–Gold medallion architecture
-- Designed optimized star schema for analytical queries
-- Built interactive dashboards tracking key business KPIs
+• Implemented Bronze–Silver–Gold architecture  
+• Optimized star schema  
+• Built KPI dashboards
 
 Repository  
 https://github.com/Sakshingale/Data-Warehouse
 
 ---
 
-## Advanced House Price Prediction
+### House Price Prediction
 
-Machine learning regression pipeline predicting housing prices using the Ames Housing dataset.
+Machine learning regression system predicting property prices.
 
-Technologies  
-Python • Pandas • Scikit-learn • Matplotlib
+Tech Stack  
+Python • Pandas • Scikit-Learn • Matplotlib
 
 Highlights
 
-- Performed feature engineering and data preprocessing
-- Implemented regression models and performance optimization
-- Evaluated models using RMSE, MAE, and R² metrics
+• Feature engineering and model optimization  
+• Evaluated models using RMSE, MAE, R²
 
 Repository  
 https://github.com/Sakshingale/House-Pricing-MachineLearning
 
 ---
 
-# GitHub Analytics
+# GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshingale&show_icons=true&theme=default)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshingale&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Sakshingale&show_icons=true&theme=tokyonight" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sakshingale)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshingale&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Sakshingale&theme=tokyonight">
+
+</p>
+
+---
+
+# Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshingale&theme=tokyo-night">
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sakshingale&theme=tokyonight&row=1">
+
+</p>
+
+---
+
+# Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sakshingale&color=blue">
+
+</p>
 
 ---
 
@@ -130,4 +179,4 @@ sakshingale19@gmail.com
 
 ---
 
-⭐ If you find my projects interesting, feel free to explore the repositories and connect with me.
+⭐ Feel free to explore my repositories and connect with me.
