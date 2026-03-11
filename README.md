@@ -1,4 +1,4 @@
-##👋 Hi, I'm Sakshi Ingale
+👋## Hi, I'm Sakshi Ingale
 🎓 Bachelor of Technology (B.Tech) in Electronics and Telecommunication Engineering
 I work at the intersection of Data Science, Machine Learning, and Data Analytics, focusing on transforming complex datasets into meaningful insights and scalable analytical solutions. My experience includes building predictive models, performing advanced data analysis, and developing interactive business intelligence dashboards.
 I am particularly interested in solving real-world problems through data-driven methodologies, statistical analysis, and machine learning techniques while leveraging modern data tools and technologies.
