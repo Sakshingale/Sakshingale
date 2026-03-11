@@ -1,14 +1,23 @@
-<img src="./banner.png" width="100%">
+<img src="banner.png" width="100%">
 
 # Hi, I'm Sakshi Ingale 👋
 
 Machine Learning | Data Analytics | MLOps | Python • SQL • Cloud
 
-I focus on building data-driven solutions, machine learning pipelines, and scalable analytics systems. My work combines data science, data engineering, and MLOps to transform raw data into actionable insights and production-ready machine learning models.
+Data professional focused on building scalable machine learning systems, data pipelines, and analytics solutions that transform raw data into actionable insights.
 
 ---
 
-## Tech Stack
+# About Me
+
+- B.Tech Electronics & Telecommunication – Vishwakarma Institute of Technology, Pune  
+- Machine Learning Intern at Anubhooti Solutions  
+- Focused on Machine Learning, Data Analytics, and MLOps  
+- Passionate about building data-driven solutions and scalable ML pipelines  
+
+---
+
+# Tech Stack
 
 ### Programming & Data
 ![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
@@ -32,7 +41,7 @@ I focus on building data-driven solutions, machine learning pipelines, and scala
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red)
 ![MLflow](https://img.shields.io/badge/MLflow-Experiment%20Tracking-blue)
 
-### Cloud
+### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![GCP](https://img.shields.io/badge/GCP-Cloud-blue)
 
@@ -42,67 +51,73 @@ I focus on building data-driven solutions, machine learning pipelines, and scala
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Hotel Reservation Cancellation Prediction
-End-to-end Machine Learning pipeline to predict hotel reservation cancellations.
+## Hotel Reservation Cancellation Prediction
+
+End-to-end Machine Learning pipeline predicting hotel reservation cancellations using real-world booking datasets.
 
 Technologies  
 Python • Scikit-learn • MLflow • Docker • Kubernetes • Jenkins • FastAPI
 
-Highlights  
-- Built predictive model using 30,000+ booking records  
-- Implemented CI/CD pipeline for automated model deployment  
-- Deployed REST API for real-time predictions
+Highlights
+
+- Built predictive ML model using 30,000+ booking records
+- Implemented automated CI/CD pipelines for model deployment
+- Deployed scalable REST API for real-time predictions
 
 Repository  
 https://github.com/Sakshingale/Hotel-Reservation-Cancellation-Prediction
 
 ---
 
-### Data Warehouse & Advanced SQL Analytics
+## Data Warehouse & Advanced SQL Analytics
 
-Designed scalable SQL data warehouse architecture with ETL pipelines and Power BI dashboards.
+Designed scalable data warehouse architecture with ETL pipelines and business intelligence dashboards.
 
 Technologies  
 SQL Server • T-SQL • Data Warehousing • Power BI
 
-Highlights  
-- Implemented Bronze–Silver–Gold data architecture  
-- Built star schema for analytical workloads  
-- Developed KPI dashboards for business insights
+Highlights
+
+- Implemented Bronze–Silver–Gold medallion architecture
+- Designed optimized star schema for analytical queries
+- Built interactive dashboards tracking key business KPIs
 
 Repository  
 https://github.com/Sakshingale/Data-Warehouse
 
 ---
 
-### Advanced House Price Prediction
+## Advanced House Price Prediction
 
-Machine learning regression system to predict property prices using the Ames dataset.
+Machine learning regression pipeline predicting housing prices using the Ames Housing dataset.
 
 Technologies  
 Python • Pandas • Scikit-learn • Matplotlib
 
-Highlights  
-- Feature engineering and model optimization  
-- Statistical evaluation using RMSE, MAE, and R²  
-- High predictive accuracy
+Highlights
+
+- Performed feature engineering and data preprocessing
+- Implemented regression models and performance optimization
+- Evaluated models using RMSE, MAE, and R² metrics
 
 Repository  
 https://github.com/Sakshingale/House-Pricing-MachineLearning
 
 ---
 
-## GitHub Stats
+# GitHub Analytics
 
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakshingale&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshingale&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshingale&layout=compact)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Sakshingale)
+
 ---
 
-## Connect With Me
+# Connect With Me
 
 LinkedIn  
 https://www.linkedin.com/in/sakshiingale
@@ -112,3 +127,7 @@ https://github.com/Sakshingale
 
 Email  
 sakshingale19@gmail.com
+
+---
+
+⭐ If you find my projects interesting, feel free to explore the repositories and connect with me.
