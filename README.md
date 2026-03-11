@@ -176,13 +176,6 @@ A machine learning regression system built to predict housing prices with struct
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sakshingale&theme=tokyonight&row=1&column=6" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
