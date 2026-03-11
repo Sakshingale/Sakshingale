@@ -1,119 +1,112 @@
 # Hi, I'm Sakshi Ingale 👋
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Projects;Python+%7C+SQL+%7C+Data+Analysis;Building+Data+Driven+Solutions;Continuous+Learning+%26+Innovation&center=true&width=550&height=45">
-</p>
+Machine Learning | Data Analytics | MLOps | Python • SQL • Cloud
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sakshingale&color=blue&style=flat-square">
-</p>
+I focus on building data-driven solutions, machine learning pipelines, and scalable analytics systems. My work combines data science, data engineering, and MLOps to transform raw data into actionable insights and production-ready machine learning models.
 
 ---
 
-# 🚀 Technologies & Tools
+## Tech Stack
 
-<p>
+### Programming & Data
+![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
+![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue)
 
-<img src="https://skillicons.dev/icons?i=python,git,github,docker,kubernetes,vscode" />
+### Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
 
-</p>
+### Data Engineering
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)
+![ETL](https://img.shields.io/badge/ETL-Pipelines-blue)
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-Architecture-green)
 
-<p>
+### MLOps & DevOps
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red)
+![MLflow](https://img.shields.io/badge/MLflow-Experiment%20Tracking-blue)
 
-<img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/ScikitLearn-Machine%20Learning-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/PowerBI-Data%20Visualization-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/MLflow-Experiment%20Tracking-blue?style=for-the-badge">
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![GCP](https://img.shields.io/badge/GCP-Cloud-blue)
 
-</p>
+### Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-Business%20Intelligence-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue)
 
 ---
 
-# 📊 Featured Projects
-
-### Credit Risk Prediction
-Machine learning system that predicts credit risk using banking datasets with preprocessing, feature engineering, and classification models.
-
-**Tech:** Python, Pandas, Scikit-learn
-
----
+## Featured Projects
 
 ### Hotel Reservation Cancellation Prediction
-Predictive system to identify reservation cancellations using machine learning models and data analysis techniques.
+End-to-end Machine Learning pipeline to predict hotel reservation cancellations.
 
-**Tech:** Python, Machine Learning
+Technologies  
+Python • Scikit-learn • MLflow • Docker • Kubernetes • Jenkins • FastAPI
 
----
+Highlights  
+- Built predictive model using 30,000+ booking records  
+- Implemented CI/CD pipeline for automated model deployment  
+- Deployed REST API for real-time predictions
 
-### Data Warehouse & SQL Analytics
-Designed a scalable SQL data warehouse with ETL pipelines and analytical dashboards for business insights.
-
-**Tech:** SQL Server, T-SQL, Power BI
-
----
-
-### End-to-End MLOps Pipeline
-Implemented a complete ML lifecycle including model training, experiment tracking, CI/CD automation, containerization, and monitoring.
-
-**Tech:** Docker, Jenkins, MLflow, Kubernetes, Prometheus, Grafana
+Repository  
+https://github.com/Sakshingale/Hotel-Reservation-Cancellation-Prediction
 
 ---
 
-# 📈 GitHub Stats
+### Data Warehouse & Advanced SQL Analytics
 
-<p align="center">
+Designed scalable SQL data warehouse architecture with ETL pipelines and Power BI dashboards.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sakshingale&show_icons=true&theme=tokyonight&hide_border=true"/>
+Technologies  
+SQL Server • T-SQL • Data Warehousing • Power BI
 
-</p>
+Highlights  
+- Implemented Bronze–Silver–Gold data architecture  
+- Built star schema for analytical workloads  
+- Developed KPI dashboards for business insights
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshingale&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshingale&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+Repository  
+https://github.com/Sakshingale/Data-Warehouse
 
 ---
 
-# 📈 GitHub Activity Graph
+### Advanced House Price Prediction
 
-<p align="center">
+Machine learning regression system to predict property prices using the Ames dataset.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshingale&theme=tokyo-night"/>
+Technologies  
+Python • Pandas • Scikit-learn • Matplotlib
 
-</p>
+Highlights  
+- Feature engineering and model optimization  
+- Statistical evaluation using RMSE, MAE, and R²  
+- High predictive accuracy
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-
-</p>
+Repository  
+https://github.com/Sakshingale/House-Pricing-MachineLearning
 
 ---
 
-# 🌐 Connect With Me
+## GitHub Stats
 
-📧 Email: **sakshingale19@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/sakshiingale  
-💻 GitHub: https://github.com/Sakshingale  
+![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakshingale&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshingale&layout=compact)
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me.
+## Connect With Me
+
+LinkedIn  
+https://www.linkedin.com/in/sakshiingale
+
+GitHub  
+https://github.com/Sakshingale
+
+Email  
+sakshingale19@gmail.com
